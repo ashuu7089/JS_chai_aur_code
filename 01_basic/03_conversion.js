@@ -49,15 +49,20 @@ let booleanIsLoggedIn  = Boolean(isLoggedIn)
 
 
     // *********************************** Operations *************************************
-    let value = 3;
-    let negValue = -value
-    console.log(negValue);
-    console.log(1 + "2");  // 12
-    console.log("2" + 3);  // 23
-    console.log("2" - 1);  //  1
-    console.log(1 + 2 + "2"); // 32
-    console.log("1" + 2  + "3"); // 123
-    console.log("2" * 2); //4
-    console.log("5" + null); // 5null
-    console.log(null + "5"); //  null5
-    console.log(null + 5); // 5
+    // let value = 3;
+    // let negValue = -value
+    // console.log(negValue);
+    // console.log(1 + "2");  // 12
+    // console.log("2" + 3);  // 23
+    // console.log("2" - 1);  //  1
+    // console.log(1 + 2 + "2"); // 32
+    // console.log("1" + 2  + "3"); // 123
+    // console.log("2" * 2); //4
+    // console.log("5" + null); // 5null
+    // console.log(null + "5"); //  null5
+    // console.log(null + 5); // 5
+
+    
+for( var i =1 ;i < 6; i++){
+    console.log(i);
+}
